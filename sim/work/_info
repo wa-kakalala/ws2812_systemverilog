@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/software/questasim/examples
+vtb_ws2812_driver
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 V21hdXOd0J33NSGC57DCT1
+I7J1JnG:Q>QLQ=CcC8a]XU0
+!s105 tb_ws2812_driver_sv_unit
+S1
+Z2 dE:/ws2812_systemverilog/sim
+w1705409973
+8E:/ws2812_systemverilog/sim/tb_ws2812_driver.sv
+FE:/ws2812_systemverilog/sim/tb_ws2812_driver.sv
+L0 1
+Z3 OL;L;10.6c;65
+Z4 !s108 1705414334.000000
+!s107 E:/ws2812_systemverilog/sim/tb_ws2812_driver.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/ws2812_systemverilog/sim/tb_ws2812_driver.sv|
+!i113 0
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vws2812_driver
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 9V[kgnlJih<IR_]Jm0VKg1
+I_2PL8TV^WEaVE5jdEJK1B0
+!s105 ws2812_driver_sv_unit
+S1
+R2
+w1705414332
+8E:/ws2812_systemverilog/sim/ws2812_driver.sv
+FE:/ws2812_systemverilog/sim/ws2812_driver.sv
+L0 1
+R3
+R4
+!s107 E:/ws2812_systemverilog/sim/ws2812_driver.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/ws2812_systemverilog/sim/ws2812_driver.sv|
+!i113 0
+R5
+R6

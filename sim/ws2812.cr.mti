@@ -1,0 +1,15 @@
+E:/ws2812_systemverilog/sim/ws2812_driver.sv {1 {vlog -work work -vopt -sv -stats=none E:/ws2812_systemverilog/sim/ws2812_driver.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ws2812_driver
+
+Top level modules:
+	ws2812_driver
+
+} {} {}} E:/ws2812_systemverilog/sim/tb_ws2812_driver.sv {1 {vlog -work work -vopt -sv -stats=none E:/ws2812_systemverilog/sim/tb_ws2812_driver.sv
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_ws2812_driver
+
+Top level modules:
+	tb_ws2812_driver
+
+} {} {}}
