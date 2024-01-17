@@ -1,3 +1,9 @@
+/**************************************
+@ filename    : tb_ws2812_driver.sv
+@ author      : yyrwkk
+@ create time : 2024/01/17 20:50:54
+@ version     : v1.0.0
+**************************************/
 module tb_ws2812_driver();
 
 logic  clk_in       ;
