@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "E:/ws2812_systemverilog/fpga/ws2812/src/ws2812.sv",
+  "InstLine" : 1,
+  "InstName" : "ws2812",
+  "ModuleFile" : "E:/ws2812_systemverilog/fpga/ws2812/src/ws2812.sv",
+  "ModuleLine" : 1,
+  "ModuleName" : "ws2812"
+ },
+ {
+  "InstFile" : "E:/ws2812_systemverilog/fpga/ws2812/src/top.sv",
+  "InstLine" : 7,
+  "InstName" : "top",
+  "ModuleFile" : "E:/ws2812_systemverilog/fpga/ws2812/src/top.sv",
+  "ModuleLine" : 7,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/ws2812_systemverilog/fpga/ws2812/src/top.sv",
+    "InstLine" : 42,
+    "InstName" : "ws2812_driver_inst",
+    "ModuleFile" : "E:/ws2812_systemverilog/fpga/ws2812/src/ws2812_driver.sv",
+    "ModuleLine" : 1,
+    "ModuleName" : "ws2812_driver"
+   },
+   {
+    "InstFile" : "E:/ws2812_systemverilog/fpga/ws2812/src/top.sv",
+    "InstLine" : 53,
+    "InstName" : "ws2812_oneled_inst",
+    "ModuleFile" : "E:/ws2812_systemverilog/fpga/ws2812/src/ws2812_oneled.sv",
+    "ModuleLine" : 7,
+    "ModuleName" : "ws2812_oneled"
+   }
+  ]
+ }
+]

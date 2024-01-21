@@ -1,0 +1,29 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'E:\ws2812_systemverilog\fpga\ws2812\src\ws2812.sv'
+Analyzing Verilog file 'E:\ws2812_systemverilog\fpga\ws2812\src\top.sv'
+Analyzing Verilog file 'E:\ws2812_systemverilog\fpga\ws2812\src\ws2812_driver.sv'
+Analyzing Verilog file 'E:\ws2812_systemverilog\fpga\ws2812\src\ws2812_oneled.sv'
+Compiling module 'top'("E:\ws2812_systemverilog\fpga\ws2812\src\top.sv":7)
+Compiling module 'ws2812_driver'("E:\ws2812_systemverilog\fpga\ws2812\src\ws2812_driver.sv":1)
+Compiling module 'ws2812_oneled'("E:\ws2812_systemverilog\fpga\ws2812\src\ws2812_oneled.sv":7)
+NOTE  (EX0101) : Current top module is "top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "E:\ws2812_systemverilog\fpga\ws2812\impl\gwsynthesis\ws2812.vg" completed
+[100%] Generate report file "E:\ws2812_systemverilog\fpga\ws2812\impl\gwsynthesis\ws2812_syn.rpt.html" completed
+GowinSynthesis finish

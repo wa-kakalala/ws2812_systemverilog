@@ -1,0 +1,29 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "E:/ws2812_systemverilog/fpga/ws2812/src/ws2812.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/ws2812_systemverilog/fpga/ws2812/src/top.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/ws2812_systemverilog/fpga/ws2812/src/ws2812_driver.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/ws2812_systemverilog/fpga/ws2812/src/ws2812_oneled.sv",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "E:/ws2812_systemverilog/fpga/ws2812/impl/temp/rtl_parser.result",
+ "Top" : "top",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_93"
+}

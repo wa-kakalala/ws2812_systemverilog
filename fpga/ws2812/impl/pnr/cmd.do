@@ -1,0 +1,13 @@
+-d E:\ws2812_systemverilog\fpga\ws2812\impl\gwsynthesis\ws2812.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst E:\ws2812_systemverilog\fpga\ws2812\src\ws2812.cst
+-cfg E:\ws2812_systemverilog\fpga\ws2812\impl\pnr\device.cfg
+-sdc E:\ws2812_systemverilog\fpga\ws2812\src\ws2812.sdc
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23

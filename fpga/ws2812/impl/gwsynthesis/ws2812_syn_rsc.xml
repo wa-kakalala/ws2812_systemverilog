@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="2" Lut="2">
+ <SubModule name="ws2812_driver_inst" Register="13" Lut="26"/>
+ <SubModule name="ws2812_oneled_inst" Register="7" Lut="18"/>
+</Module>
